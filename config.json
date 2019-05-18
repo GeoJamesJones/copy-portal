@@ -1,0 +1,8 @@
+{
+    "source-portal": "url", 
+    "source-portal-username":"username",
+    "source-portal-password":"password",
+    "target-portal": "url", 
+    "target-portal-username":"username",
+    "target-portal-password":"password"
+}
